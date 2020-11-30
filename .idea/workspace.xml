@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3a2b6bd-a914-46b7-91e5-bd86de224388" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1j5wTev9aKVHbrB9rK2kFsRFj2p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build apitest/apitest/mock/main">
+    <configuration name="go build apitest" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="apitest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="apitest" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build apitest/apitest/mock/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="apitest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/apitest/mock/main/main.go" />
+      <package value="apitest/apitest/mock/main" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="apitest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="apitest" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="apitest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/apitest/mock/main.go" />
+      <package value="apitest" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build apitest/apitest/mock/main" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build apitest" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.io,direct" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2515" height="348" key="GridCell.Tab.0.bottom" timestamp="1606720427188">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="2515" height="348" key="GridCell.Tab.0.bottom/0.25.1440.834/1440.25.2560.1415@1440.25.2560.1415" timestamp="1606720427188" />
+    <state width="2515" height="372" key="GridCell.Tab.0.bottom/35.23.1405.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1605080659615" />
+    <state width="1362" height="286" key="GridCell.Tab.0.bottom/35.23.1405.877@35.23.1405.877" timestamp="1603212119127" />
+    <state width="2515" height="348" key="GridCell.Tab.0.center" timestamp="1606720427188">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="2515" height="348" key="GridCell.Tab.0.center/0.25.1440.834/1440.25.2560.1415@1440.25.2560.1415" timestamp="1606720427188" />
+    <state width="2515" height="372" key="GridCell.Tab.0.center/35.23.1405.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1605080659614" />
+    <state width="1362" height="286" key="GridCell.Tab.0.center/35.23.1405.877@35.23.1405.877" timestamp="1603212119126" />
+    <state width="2515" height="348" key="GridCell.Tab.0.left" timestamp="1606720427187">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="2515" height="348" key="GridCell.Tab.0.left/0.25.1440.834/1440.25.2560.1415@1440.25.2560.1415" timestamp="1606720427187" />
+    <state width="2515" height="372" key="GridCell.Tab.0.left/35.23.1405.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1605080659614" />
+    <state width="1362" height="286" key="GridCell.Tab.0.left/35.23.1405.877@35.23.1405.877" timestamp="1603212119126" />
+    <state width="2515" height="348" key="GridCell.Tab.0.right" timestamp="1606720427188">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="2515" height="348" key="GridCell.Tab.0.right/0.25.1440.834/1440.25.2560.1415@1440.25.2560.1415" timestamp="1606720427188" />
+    <state width="2515" height="372" key="GridCell.Tab.0.right/35.23.1405.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1605080659614" />
+    <state width="1362" height="286" key="GridCell.Tab.0.right/35.23.1405.877@35.23.1405.877" timestamp="1603212119126" />
+    <state width="2515" height="348" key="GridCell.Tab.1.bottom" timestamp="1606707965471">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="2515" height="348" key="GridCell.Tab.1.bottom/0.25.1440.834/1440.25.2560.1415@1440.25.2560.1415" timestamp="1606707965471" />
+    <state width="2515" height="351" key="GridCell.Tab.1.bottom/35.23.1405.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1605080659591" />
+    <state width="1362" height="286" key="GridCell.Tab.1.bottom/35.23.1405.877@35.23.1405.877" timestamp="1603212119127" />
+    <state width="2515" height="348" key="GridCell.Tab.1.center" timestamp="1606707965471">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="2515" height="348" key="GridCell.Tab.1.center/0.25.1440.834/1440.25.2560.1415@1440.25.2560.1415" timestamp="1606707965471" />
+    <state width="2515" height="351" key="GridCell.Tab.1.center/35.23.1405.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1605080659590" />
+    <state width="1362" height="286" key="GridCell.Tab.1.center/35.23.1405.877@35.23.1405.877" timestamp="1603212119127" />
+    <state width="2515" height="348" key="GridCell.Tab.1.left" timestamp="1606707965470">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="2515" height="348" key="GridCell.Tab.1.left/0.25.1440.834/1440.25.2560.1415@1440.25.2560.1415" timestamp="1606707965470" />
+    <state width="2515" height="351" key="GridCell.Tab.1.left/35.23.1405.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1605080659590" />
+    <state width="1362" height="286" key="GridCell.Tab.1.left/35.23.1405.877@35.23.1405.877" timestamp="1603212119127" />
+    <state width="2515" height="348" key="GridCell.Tab.1.right" timestamp="1606707965471">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="2515" height="348" key="GridCell.Tab.1.right/0.25.1440.834/1440.25.2560.1415@1440.25.2560.1415" timestamp="1606707965471" />
+    <state width="2515" height="351" key="GridCell.Tab.1.right/35.23.1405.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1605080659591" />
+    <state width="1362" height="286" key="GridCell.Tab.1.right/35.23.1405.877@35.23.1405.877" timestamp="1603212119127" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1606704224194">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.25.1440.834/1440.25.2560.1415@1440.25.2560.1415" timestamp="1606704224194" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/apitest/mock/mock/api_server.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
